@@ -1,16 +1,16 @@
 # Using K-means clustering Algorithm to Redefine NBA positions and Exploring Roster Construction
 ### Project Description and Motivation 
-Conventional positions within the NBA do not accurately reflect the playing style or functional role a player provides to their team. The overall style of play has changed drastically and various era’s within the NBA indicate that. Similarly a players style of play is also reflective of this change. Currently the league is more fast paced and with more floor spacing. A specific example is Centers who shoot 3's and stretch the floor for their teamms are still grouped with traditional Centers. Conventional Positions tell very little about a players role and functionality within their team.  
+Conventional positions within the NBA do not accurately reflect the playing style or functional role a player provides to their team. The overall style of play has changed drastically and various era’s within the NBA indicate that. Similarly a players style of play is also reflective of this change. Currently the league is fast paced and with more floor spacing. An example that demonstrates this are Centers who shoot 3's and stretch the floor for their teamms. These centers that are multi-faceted are still grouped with traditional Centers and there is no methodology to distinguish between the two. The purpose of this project is find a better approach to define these players roles based on the value they bring to their team.   
 
 ## **Data Source** 
-Information was scraped from Basketball-Reference and statistics from 2011 to 2018 were collected. 2011 was used as a starting point because it represents the start of when positionless basketball started to take form (LeBron being the main facilitator in Miami and the start of the Golden State Dynasty). Approximatley 3000 observations were included in the dataset where each row represents a player’s statistics for the season. 
-In total there are 34 features. Features include box-score metrics such as Points, Rebounds, Blocks, Steals and advanced metrics as well, which include: USG%, PER, and Plus-Minus Score. 
-Per-100 possessions unit measures were  used for the features instead of season total or per-game to ensure every players statistics are comparable. 
-Players who did not play more than 400 minutes were excluded. They were considered to have very little impact on the game.   
+Information was scraped from Basketball-Reference and statistics for every player from 2011 to 2018 were collected. 2011 was used as the initial start year because it reflective of when positionless basketball started to take form (LeBron being the main facilitator in Miami and the start of the Golden State Dynasty). Approximatley 3000 observations were included in the final dataset. 
+In total there were 34 features describing each player. Features include box-score metrics such as Points, Rebounds, Blocks, Steals. Advanced metrics were also used. Some examples include : USG%, PER, and Plus-Minus Score. 
+All features were defined by a Per-100 possessions unit. This was done to ensure that players statistics were comparable regardless of how many minutes or games they played. 
+Players who did not play more than 400 minutes were excluded because they do not have significant impact on the game.   
 
 ## **Exploratory Data Analysis**
 
-#### Graph displaying League Average for 3 pt % over time  
+#### Graph displaying League Average for 3 Pt % over time  
 
 #### Graph displaying League Average for various features (Ortg, Drtg, 3P%) over time
 
