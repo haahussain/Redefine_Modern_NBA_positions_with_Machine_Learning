@@ -66,6 +66,6 @@ The clusters are much more condensed and sorted now when compared the clusters g
 ![eda](./pics/finalist_team_roster_2.png "pie chart finalist teams")
 
 #### Answer 
-Overall NBA Final teams have more star power and their inside players have a reserved/defined role. In comparison, the ‘Average’ NBA teams have less star power and rely on star inside bigs as their focal points. Teams that want to win should have their roster to be more refelctive of the pie chart for NBA finalist teams. 
+Overall NBA Final teams have more star power and their inside players have a reserved/defined role. In comparison, the ‘Average’ NBA teams have less star power and rely on star inside bigs as their focal points. Teams that want to win should have their roster to be more refelctive of the pie chart for NBA finalist teams. Front Office and GM's for teams should take the Finalist NBA team roster distribtion into consideration when considering new contracts and trades, if they want the highest level of success. 
 
 
